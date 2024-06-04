@@ -4,7 +4,7 @@ Ce projet utilise une carte Arduino pour surveiller et contrôler l'environnemen
 
 ## Description du Projet
 
-Ce projet vise à maintenir un environnement intérieur confortable en utilisant divers capteurs et une carte Arduino. Les mesures de température, d'humidité, de CO2 et de lumière sont affichées sur un écran LCD. Une télécommande IR est utilisée pour contrôler certains aspects du système, comme l'activation du climatiseur ou de la ventilation.
+Ce projet vise à maintenir un environnement intérieur confortable en utilisant divers capteurs et une carte Arduino. Les mesures de température, d'humidité, de CO2 sont affichées sur un écran LCD. Une télécommande IR est utilisée pour contrôler certains aspects du système, comme l'activation du climatiseur ou de la ventilation.
 
 ## Contenu du Répertoire
 
